@@ -1,6 +1,6 @@
 # App de monitoramento de cotação de moedas
 
-> Esse projeto foi realizado acomanhando o canal (Switch Case)[https://www.youtube.com/watch?v=C3pFOmFZ8QU] abordando as novidades do VueJS 3.
+> Esse projeto foi realizado acomanhando o canal [Switch Case](https://www.youtube.com/watch?v=C3pFOmFZ8QU) abordando as novidades do VueJS 3.
 
 ## Project setup
 ```
